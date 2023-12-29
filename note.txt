@@ -1,0 +1,15 @@
+Create project of ReactJS with vite
+open console, write
+1. npm create vite@latest
+2. select vanilla
+3. enter name: my-app
+4. select javascript
+5. cd my-app
+6. install plugin with npm install @vitejs/plugin-react -E
+7. install dependency react with react-dom
+8. npm install react react-dom -E
+
+
+
+
+
