@@ -1,0 +1,42 @@
+body{
+  max-width: 100vw;
+}
+.page{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem;  
+}
+header{
+  text-align: center;
+}
+
+main{
+  display: flex;
+  justify-content: center;    
+}
+
+main ul{
+  list-style: none;
+}
+main ul li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+img{
+  width: 15rem;
+}
+
+
+
