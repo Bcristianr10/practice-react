@@ -10,7 +10,7 @@ function App () {
     event.preventDefault()
     // crea un objeto con los valores de los input, usuando el submit desde el form
     const fields = Object.fromEntries(new window.FormData(event.target))
-    console.log('fields', fields)
+    console.log(fields)
   }
   return (
     <>
